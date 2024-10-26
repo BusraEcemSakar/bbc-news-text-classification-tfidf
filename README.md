@@ -10,7 +10,3 @@ Document Similarity: Calculate the similarity between documents based on TF-IDF 
 Keyword Extraction: Extract significant keywords from text documents.
 Dataset
 The project uses the BBC News Dataset, which includes news articles classified into categories such as sports, business, politics, and technology. The dataset is available in CSV format with columns for text and category.
-
-README.md: Write a comprehensive README.
-requirements.txt: List the dependencies.
-docs/documentation.md: Detailed documentation of your project.
