@@ -5,8 +5,13 @@ Welcome to the BBC News Text Classification with TF-IDF project! This Python pro
 # Features
 
 **TF-IDF Computation: Transform text documents into TF-IDF feature vectors.**
+
 **Text Classification: Classify news articles into categories using machine learning models.**
+
 **Document Similarity: Calculate the similarity between documents based on TF-IDF features.**
+
 **Keyword Extraction: Extract significant keywords from text documents.**
+
 **Dataset**
+
 The project uses the BBC News Dataset, which includes news articles classified into categories such as sports, business, politics, and technology. The dataset is available in CSV format with columns for text and category.
